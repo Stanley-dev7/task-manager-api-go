@@ -10,6 +10,7 @@ This project demonstrates CRUD operations, clean architecture, and JSON file per
 4. Update tasks
 5. Delete tasks
 6. JSON file persistence
+
 TECH STACK
 1. Go (Golang)
 2. net/http package
