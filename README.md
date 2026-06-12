@@ -28,8 +28,6 @@ During this project, I ran into several challenges:
 - Managing in-memory/data storage logic
 - Debugging errors in request handling
 - Understanding how Go handles pointers and data updates
-Each challenge helped me understand backend development more deeply.
-
 
 What I Learned
 - How to build REST APIs in Go
