@@ -22,13 +22,14 @@ Challenges Faced
 
 During this project, I ran into several challenges:
 
- -Understanding how to structure a Go backend project properly
- -Handling HTTP requests and routing correctly
+ - Understanding how to structure a Go backend project properly
+- Handling HTTP requests and routing correctly
 - Working with structs and JSON encoding/decoding
 - Managing in-memory/data storage logic
 - Debugging errors in request handling
 - Understanding how Go handles pointers and data updates
 Each challenge helped me understand backend development more deeply.
+
 
 What I Learned
 - How to build REST APIs in Go
