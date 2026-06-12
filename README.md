@@ -21,6 +21,7 @@ TECH STACK
 Challenges Faced
 
 During this project, I ran into several challenges:
+
  -Understanding how to structure a Go backend project properly
  -Handling HTTP requests and routing correctly
 - Working with structs and JSON encoding/decoding
